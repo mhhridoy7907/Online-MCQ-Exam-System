@@ -117,6 +117,7 @@ You can change these passwords inside the **JavaScript code**.
 ```
 mh2-it-center-mcq-exam
 │
+📂code
 ├── index.html
 ├── funtion.js
 ├── style.css
