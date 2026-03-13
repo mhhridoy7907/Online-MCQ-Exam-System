@@ -9,9 +9,9 @@ This system allows students to take a secure online exam with timer, password pr
 # Demo Preview
 ![preview](code/D.png)
 
-![preview](code/D1.png)
-
 ![preview](code/D2.png)
+
+![preview](code/D3.png)
 
 
 ## 📌 Features
